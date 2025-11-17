@@ -1,12 +1,23 @@
 {
   "name": "my-web-app",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/providenceumugwaneza/my-web-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/providenceumugwaneza/my-web-app/issues"
+  },
+  "homepage": "https://github.com/providenceumugwaneza/my-web-app#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
